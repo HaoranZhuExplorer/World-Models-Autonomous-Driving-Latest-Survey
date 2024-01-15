@@ -1,2 +1,2 @@
-# Awesome-LLVWM-AD
-A curated list of large language, vision, world model (LLVWM) for autonmous driving (AD). Keep updated. 
+# Awesome-World-Model-Autonomous-Driving
+A curated list of world model for autonmous driving (AD). Keep updated. 

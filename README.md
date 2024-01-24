@@ -1,7 +1,7 @@
 # World-Model-Autonomous-Driving
 A curated list of world model for autonmous driving. Keep updated.
 
-## Papers
+## World Model Papers for Autonomous Driving
 * 2024-Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion __`ICLR 2024`__; __`Future Prediction`__; __`NuScenes, KITTI Odemetry, Argoverse2 Lidar datasets`__;  [Paper](https://openreview.net/pdf/4a224e2fdf12f05cc9e128e0ef6f47ebd80e7155.pdf)
 
 ## Other General World Model Papers

@@ -3,7 +3,7 @@ A curated list of world model for autonmous driving. Keep updated.
 
 ## Papers
 
-* 2023-Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion __`ICLR`__; __`Future Prediction`__; __`NuScenes, KITTI Odemetry, Argoverse2 Lidar datasets`__;  [Paper](https://openreview.net/pdf/4a224e2fdf12f05cc9e128e0ef6f47ebd80e7155.pdf)
+* 2024-Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion __`ICLR 2024`__; __`Future Prediction`__; __`NuScenes, KITTI Odemetry, Argoverse2 Lidar datasets`__;  [Paper](https://openreview.net/pdf/4a224e2fdf12f05cc9e128e0ef6f47ebd80e7155.pdf)
 
 
 ## References

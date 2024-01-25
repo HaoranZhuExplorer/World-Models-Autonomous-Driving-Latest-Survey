@@ -1,4 +1,4 @@
-# World-Model-Autonomous-Driving
+# World-Model-Autonomous-Driving-Newest-Updates
 A curated list of world model for autonmous driving. Keep updated.
 
 ## Papers

@@ -6,6 +6,8 @@ A curated list of world model for autonmous driving. Keep updated.
 * 2023-MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations __`arxiv`__; __`Pre-training`__; __`CARLA dataset`__ [Paper](https://arxiv.org/pdf/2311.11762.pdf)
 * 2023-Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion __`ICLR 2024`__; __`Future Prediction`__; __`from Waabi`__; __`NuScenes, KITTI Odemetry, Argoverse2 Lidar datasets`__;  [Paper](https://openreview.net/pdf/4a224e2fdf12f05cc9e128e0ef6f47ebd80e7155.pdf)
   
+## World Model Tutorials/Videos for Autonomous Driving
+* 2023 __`from Wayve`__; [Video](https://www.youtube.com/watch?v=lNOs08byOhw)
 
 ## Other General World Model Papers
 * 2023-Gradient-based Planning with World Models __`arxiv`__; __`from Yann Lecun's Group`__; __`Planning`__; [Paper](https://arxiv.org/abs/2312.17227)

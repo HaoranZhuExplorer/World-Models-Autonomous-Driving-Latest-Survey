@@ -6,6 +6,7 @@ A curated list of world model for autonmous driving. Keep updated.
 * 2023-MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations __`arxiv`__; __`Pre-training`__; __`CARLA dataset`__ [Paper](https://arxiv.org/pdf/2311.11762.pdf)
 * 2023-Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion __`ICLR 2024`__; __`Future Prediction`__; __`from Waabi`__; __`NuScenes, KITTI Odemetry, Argoverse2 Lidar datasets`__;  [Paper](https://openreview.net/pdf/4a224e2fdf12f05cc9e128e0ef6f47ebd80e7155.pdf)
 * 2022-SEM2: Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model  __`NeurIPS 2022 Deep Reinforcement Learning Workshop`__; __`RL`__; __`CARLA dataset`__ [Paper](https://arxiv.org/pdf/2210.04017.pdf)
+* 2022-MILE: Model-Based Imitation Learning for Urban Driving __`NeurIPS 2022`__; __`RL`__; __`from Wayve`__ [Paper](https://arxiv.org/pdf/2210.07729.pdf), [Code](https://github.com/wayveai/mile)
 * 2021-FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras __`ICCV`__; __`Future Prediction`__; __`from Wayve`__; __`NuScenes, Lyft datasets`__ [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_FIERY_Future_Instance_Prediction_in_Birds-Eye_View_From_Surround_Monocular_ICCV_2021_paper.pdf), [Code](https://github.com/wayveai/fiery)
   
 ## Workshops/Challenges

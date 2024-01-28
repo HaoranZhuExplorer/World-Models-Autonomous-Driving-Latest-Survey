@@ -33,7 +33,7 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2023-World Models via Policy-Guided Trajectory Diffusion __`arxiv`__; __`RL`__; [Paper](https://arxiv.org/pdf/2312.08533.pdf)
 * 2022-A Path Towards Autonomous Machine Intelligence __`openreview`__; __`from Yann Lecun's Group`__; __`General Roadmap for World Models`__; [Paper](https://openreview.net/forum?id=BZ5a1r-kVsf)
 * 2020-DreamerV2: Mastering Atari with Discrete World Models __`ICLR 2021`__; __`RL`__; __`from Google & Deepmind`__ [Paper](https://arxiv.org/pdf/2010.02193.pdf), [Code](https://github.com/danijar/dreamerv2)
-* 2018-DreamerV1: Model-Based Planning with Discrete and Continuous Actions __`arxiv`__; __`RL`__; __`from Yann Lecun's Group`__;  [Paper](https://arxiv.org/pdf/1705.07177)
+* 2018-DreamerV1: Model-Based Planning with Discrete and Continuous Actions __`arxiv`__; __`RL, Planning`__; __`from Yann Lecun's Group`__;  [Paper](https://arxiv.org/pdf/1705.07177)
 
 ## References
 * Readme template from [awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception)

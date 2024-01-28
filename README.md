@@ -23,8 +23,10 @@ A curated list of world model for autonmous driving. Keep updated.
 ## Tutorials/Talks/
 * 2023 __`from Wayve`__; [Video](https://www.youtube.com/watch?v=lNOs08byOhw)
 
-## Surveys that contains world model for autonomous driving
-* 2023 Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)
+## Surveys that describes world model for autonomous driving
+* 2024-Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big
+Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.12888.pdf)
+* 2024-Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)
 
 ## Other General World Model Papers
 * 2023-Gradient-based Planning with World Models __`arxiv`__; __`from Yann Lecun's Group`__; __`Planning`__; [Paper](https://arxiv.org/pdf/2312.17227)

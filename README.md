@@ -36,7 +36,7 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2018-DreamerV1: Model-Based Planning with Discrete and Continuous Actions __`arxiv`__; __`RL, Planning`__; __`from Yann Lecun's Group`__;  [Paper](https://arxiv.org/pdf/1705.07177)
 
 ## Other Related Papers
-* 2023-Occupancy Prediction-Guided Neural Planner for Autonomous Driving __`ITSC 2023`__; __`Planning`__; __`Waymo Open Motion dataset`__ [Paper](https://arxiv.org/abs/2305.03303)
+* 2023-Occupancy Prediction-Guided Neural Planner for Autonomous Driving __`ITSC 2023`__; __`Planning, Neural Predicted-Guided Planning`__; __`Waymo Open Motion dataset`__ [Paper](https://arxiv.org/abs/2305.03303)
 
 ## References
 * Readme template from [awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception)

@@ -18,7 +18,7 @@ A curated list of world model for autonmous driving. Keep updated.
 * 2021-FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras __`ICCV`__; __`Future Prediction`__; __`from Wayve`__; __`NuScenes, Lyft datasets`__ [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_FIERY_Future_Instance_Prediction_in_Birds-Eye_View_From_Surround_Monocular_ICCV_2021_paper.pdf), [Code](https://github.com/wayveai/fiery)
   
 ## Workshops/Challenges
-* 2024-CVPR Workshop, Foundation Models for Autonomous Systems, Challenges, Track 4: Predictive World Model __`Challenges`__ [Link](https://opendrivelab.com/cvpr2024/)
+* 2024-CVPR Workshop, Foundation Models for Autonomous Systems, Challenges, Track 4: Predictive World Model __`Challenges`__ [Link](https://opendrivelab.com/challenge2024/)
 
 ## Tutorials/Talks/
 * 2023 __`from Wayve`__; [Video](https://www.youtube.com/watch?v=lNOs08byOhw)

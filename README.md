@@ -10,6 +10,9 @@ A curated list of world model for autonmous driving. Keep updated.
 * 2023-ADriver-I: A General World Model for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`NuScenes & one private dataset`__ [Paper](https://arxiv.org/pdf/2311.13549.pdf) 
 * 2023-OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving __`arxiv`__; __`Occupancy Future Prediction, Planning`__; __`Occ3D dataset for Occupancy Future Prediction, NuScenes for motion planning`__ [Paper](https://arxiv.org/pdf/2311.16038.pdf), [Code](https://github.com/wzzheng/OccWorld)
 * 2023-GAIA-1: A Generative World Model for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`Wayve's private data`__ [Paper](https://arxiv.org/pdf/2309.17080.pdf)
+  <details span>
+     Test span
+  </details>
 * 2023-DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2309.09777.pdf), [Code (To be released soon)](https://github.com/JeffWang987/DriveDreamer)
 * 2023-Neural World Models for Computer Vision __'PhD Thesis'__; __`from Wayve`__  [Paper](https://arxiv.org/pdf/2306.09179)
 * 2023-UniWorld: Autonomous Driving Pre-training via World Models __`arxiv`__; __`Pre-training`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2308.07234.pdf)

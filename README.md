@@ -12,7 +12,9 @@ A curated list of world model for autonmous driving. Keep updated.
 * 2023-GAIA-1: A Generative World Model for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`Wayve's private data`__ [Paper](https://arxiv.org/pdf/2309.17080.pdf)
   <details span>
   Related papers & tutorials to understand this paper:
+    
   FDM for video diffusion decoder, [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b2fe1ee8d936ac08dd26f2ff58986c8f-Paper-Conference.pdf)
+
   Denoising diffusion tutorials: [CVPR 2022 tutorial](https://www.youtube.com/watch?v=cS6JQpEY9cs), [class from UC Berkeley](https://www.youtube.com/watch?v=687zEGODmHA)
   </details>
 * 2023-DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2309.09777.pdf), [Code (To be released soon)](https://github.com/JeffWang987/DriveDreamer)

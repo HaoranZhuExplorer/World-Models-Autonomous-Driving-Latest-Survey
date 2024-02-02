@@ -13,7 +13,7 @@ A curated list of world model for autonmous driving. Keep updated.
   <details span>
   Related papers & tutorials to understand this paper:
     
-  FDM for video diffusion decoder, [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b2fe1ee8d936ac08dd26f2ff58986c8f-Paper-Conference.pdf)
+  FDM for video diffusion decoder: [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b2fe1ee8d936ac08dd26f2ff58986c8f-Paper-Conference.pdf), [Code](https://github.com/plai-group/flexible-video-diffusion-modeling)
   
   Denoising diffusion tutorials: [CVPR 2022 tutorial](https://www.youtube.com/watch?v=cS6JQpEY9cs), [class from UC Berkeley](https://www.youtube.com/watch?v=687zEGODmHA)
   </details>

@@ -16,7 +16,7 @@ A curated list of world model for autonmous driving. Keep updated.
     
   FDM for video diffusion decoder: [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b2fe1ee8d936ac08dd26f2ff58986c8f-Paper-Conference.pdf), [Code](https://github.com/plai-group/flexible-video-diffusion-modeling)
   
-  Denoising diffusion tutorials: [CVPR 2022 tutorial](https://www.youtube.com/watch?v=cS6JQpEY9cs), [class from UC Berkeley](https://www.youtube.com/watch?v=687zEGODmHA)
+  Denoising diffusion tutorials: [CVPR 2022 tutorial](https://www.youtube.com/watch?v=cS6JQpEY9cs), [class from UC Berkeley](https://www.youtube.com/watch?v=687zEGODmHA), [Video](https://www.youtube.com/watch?v=pea3sH6orMc)
   </details>
 * 2023-DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2309.09777.pdf), [Code (To be released soon)](https://github.com/JeffWang987/DriveDreamer)
 * 2023-Neural World Models for Computer Vision __'PhD Thesis'__; __`from Wayve`__  [Paper](https://arxiv.org/pdf/2306.09179)

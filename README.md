@@ -30,6 +30,7 @@ A curated list of world model for autonmous driving. Keep updated.
 
 ## Tutorials/Talks/
 * 2023 __`from Wayve`__; [Video](https://www.youtube.com/watch?v=lNOs08byOhw)
+* 2022-Neural World Models for Autonomous Driving [Video](https://www.youtube.com/watch?v=wMvYjiv6EpY)
 
 ## Surveys that Contain World Models for AD
 * 2024-Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big

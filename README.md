@@ -2,6 +2,7 @@
 A curated list of world model for autonmous driving. Keep updated.
 
 ## Papers
+* 2024-LWM: World Model on Million-Length Video And Language With RingAttention __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/abs/2402.08268), [Code](https://github.com/LargeWorldModel/LWM?tab=readme-ov-file)
 * 2024-WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/abs/2401.09985)
 * 2023-DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/pdf/2310.07771.pdf), [Code](https://github.com/shalfun/DrivingDiffusion)
 * 2023-ViDAR: Visual Point Cloud Forecasting enables Scalable Autonomous Driving  __`arxiv`__; __`Pre-training`__;  __`from Shanghai AI Lab`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2312.17655)

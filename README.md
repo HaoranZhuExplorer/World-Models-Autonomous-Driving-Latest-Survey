@@ -2,8 +2,6 @@
 A curated list of world model for autonmous driving. Keep updated.
 
 ## Papers
-* 2024-LWM: World Model on Million-Length Video And Language With RingAttention __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/abs/2402.08268), [Code](https://github.com/LargeWorldModel/LWM?tab=readme-ov-file)
-* 2024-WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/abs/2401.09985)
 * 2023-DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/pdf/2310.07771.pdf), [Code](https://github.com/shalfun/DrivingDiffusion)
 * 2023-ViDAR: Visual Point Cloud Forecasting enables Scalable Autonomous Driving  __`arxiv`__; __`Pre-training`__;  __`from Shanghai AI Lab`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2312.17655)
 * 2023-MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations __`arxiv`__; __`Pre-training`__; __`CARLA dataset`__ [Paper](https://arxiv.org/pdf/2311.11762.pdf)
@@ -39,6 +37,8 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2024-Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)
 
 ## Other General World Model Papers
+* 2024-LWM: World Model on Million-Length Video And Language With RingAttention __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/abs/2402.08268), [Code](https://github.com/LargeWorldModel/LWM)
+* 2024-WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/abs/2401.09985)
 * 2023-Gradient-based Planning with World Models __`arxiv`__; __`from Yann Lecun's Group`__; __`Planning`__; [Paper](https://arxiv.org/pdf/2312.17227)
 * 2023-World Models via Policy-Guided Trajectory Diffusion __`arxiv`__; __`RL`__; [Paper](https://arxiv.org/pdf/2312.08533.pdf)
 * 2022-A Path Towards Autonomous Machine Intelligence __`openreview`__; __`from Yann Lecun's Group`__; __`General Roadmap for World Models`__; [Paper](https://openreview.net/forum?id=BZ5a1r-kVsf); [Slides1](https://leshouches2022.github.io/SLIDES/compressed-yann-1.pdf), [Slides2](https://leshouches2022.github.io/SLIDES/lecun-20220720-leshouches-02.pdf), [Slides3](https://leshouches2022.github.io/SLIDES/lecun-20220720-leshouches-03.pdf); [Videos](https://www.youtube.com/playlist?list=PLEIq5bchE3R3Yl5taXdYA04a9kH9yvyGm)

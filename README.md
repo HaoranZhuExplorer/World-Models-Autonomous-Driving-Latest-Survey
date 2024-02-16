@@ -46,8 +46,10 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2023-Gradient-based Planning with World Models __`arxiv`__; __`from Yann Lecun's Group`__; __`Planning`__; [Paper](https://arxiv.org/pdf/2312.17227)
 * 2023-World Models via Policy-Guided Trajectory Diffusion __`arxiv`__; __`RL`__; [Paper](https://arxiv.org/pdf/2312.08533.pdf)
 * 2022-A Path Towards Autonomous Machine Intelligence __`openreview`__; __`from Yann Lecun's Group`__; __`General Roadmap for World Models`__; [Paper](https://openreview.net/forum?id=BZ5a1r-kVsf); [Slides1](https://leshouches2022.github.io/SLIDES/compressed-yann-1.pdf), [Slides2](https://leshouches2022.github.io/SLIDES/lecun-20220720-leshouches-02.pdf), [Slides3](https://leshouches2022.github.io/SLIDES/lecun-20220720-leshouches-03.pdf); [Videos](https://www.youtube.com/playlist?list=PLEIq5bchE3R3Yl5taXdYA04a9kH9yvyGm)
-* 2020-DreamerV2: Mastering Atari with Discrete World Models __`ICLR 2021`__; __`RL`__; __`from Google & Deepmind`__ [Paper](https://arxiv.org/pdf/2010.02193.pdf), [Code](https://github.com/danijar/dreamerv2)
+* 2021-DreamerV2: Mastering Atari with Discrete World Models __`ICLR 2021`__; __`RL`__; __`from Google & Deepmind`__ [Paper](https://arxiv.org/pdf/2010.02193.pdf), [Code](https://github.com/danijar/dreamerv2)
+* 2019-Learning Latent Dynamics for Planning from Pixels __`ICML 2019`__ [Paper](https://proceedings.mlr.press/v97/hafner19a/hafner19a.pdf), [Code](https://github.com/google-research/planet)
 * 2018-DreamerV1: Model-Based Planning with Discrete and Continuous Actions __`arxiv`__; __`RL, Planning`__; __`from Yann Lecun's Group`__;  [Paper](https://arxiv.org/pdf/1705.07177)
+* 2018-Recurrent world models facilitate policy evolution __`NeurIPS 2018`__; [Paper](https://papers.nips.cc/paper_files/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf), [Code](https://github.com/hardmaru/WorldModelsExperiments)
 
 ## Other Related Papers
 * 2023-Occupancy Prediction-Guided Neural Planner for Autonomous Driving __`ITSC 2023`__; __`Planning, Neural Predicted-Guided Planning`__; __`Waymo Open Motion dataset`__ [Paper](https://arxiv.org/abs/2305.03303)

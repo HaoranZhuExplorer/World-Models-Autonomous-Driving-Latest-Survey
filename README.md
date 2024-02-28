@@ -52,8 +52,9 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2022-Daydreamer: World models for physical robot learning __`CoRL 2022`__; __`Robotics`__ [Paper](https://arxiv.org/abs/2206.14176), [Code](https://github.com/danijar/daydreamer) 
 * 2022-A Path Towards Autonomous Machine Intelligence __`openreview`__; __`from Yann Lecun's Group`__; __`General Roadmap for World Models`__; [Paper](https://openreview.net/forum?id=BZ5a1r-kVsf); [Slides1](https://leshouches2022.github.io/SLIDES/compressed-yann-1.pdf), [Slides2](https://leshouches2022.github.io/SLIDES/lecun-20220720-leshouches-02.pdf), [Slides3](https://leshouches2022.github.io/SLIDES/lecun-20220720-leshouches-03.pdf); [Videos](https://www.youtube.com/playlist?list=PLEIq5bchE3R3Yl5taXdYA04a9kH9yvyGm)
 * 2021-DreamerV2: Mastering Atari with Discrete World Models __`ICLR 2021`__; __`RL`__; __`from Google & Deepmind`__ [Paper](https://arxiv.org/pdf/2010.02193.pdf), [Code](https://github.com/danijar/dreamerv2)
+* 2020-Dreamer: Dream to Control: Learning Behaviors by Latent Imagination __`ICLR 2020`__ [Paper](https://arxiv.org/abs/1912.01603), [Code](https://github.com/google-research/dreamer)
 * 2019-Learning Latent Dynamics for Planning from Pixels __`ICML 2019`__ [Paper](https://proceedings.mlr.press/v97/hafner19a/hafner19a.pdf), [Code](https://github.com/google-research/planet)
-* 2018-DreamerV1: Model-Based Planning with Discrete and Continuous Actions __`arxiv`__; __`RL, Planning`__; __`from Yann Lecun's Group`__;  [Paper](https://arxiv.org/pdf/1705.07177)
+* 2018-Model-Based Planning with Discrete and Continuous Actions __`arxiv`__; __`RL, Planning`__; __`from Yann Lecun's Group`__;  [Paper](https://arxiv.org/pdf/1705.07177)
 * 2018-Recurrent world models facilitate policy evolution __`NeurIPS 2018`__; [Paper](https://papers.nips.cc/paper_files/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf), [Code](https://github.com/hardmaru/WorldModelsExperiments)
 
 ## Other Related Papers

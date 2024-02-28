@@ -2,6 +2,7 @@
 A curated list of world model for autonmous driving. Keep updated.
 
 ## Papers
+* 2024-Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving  __`arxiv`__ [Paper](https://arxiv.org/pdf/2402.16720.pdf)
 * 2023-DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/pdf/2310.07771.pdf), [Code](https://github.com/shalfun/DrivingDiffusion)
 * 2023-ViDAR: Visual Point Cloud Forecasting enables Scalable Autonomous Driving  __`arxiv`__; __`Pre-training`__;  __`from Shanghai AI Lab`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2312.17655)
 * 2023-MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations __`arxiv`__; __`Pre-training`__; __`CARLA dataset`__ [Paper](https://arxiv.org/pdf/2311.11762.pdf)

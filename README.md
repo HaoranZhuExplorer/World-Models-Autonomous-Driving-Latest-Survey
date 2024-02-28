@@ -45,6 +45,7 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2024-Sora __`OpenAI`__, __`Generative AI`__ [Link](https://openai.com/sora), [Technical Report](https://openai.com/research/video-generation-models-as-world-simulators)
 * 2024-LWM: World Model on Million-Length Video And Language With RingAttention __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/abs/2402.08268), [Code](https://github.com/LargeWorldModel/LWM)
 * 2024-WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/abs/2401.09985)
+* 2024-Video prediction models as rewards for reinforcement learning __`NeurIPS 2024`__ [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/d9042abf40782fbce28901c1c9c0e8d8-Paper-Conference.pdf), [Code](https://github.com/Alescontrela/viper_rl)
 * 2023-Transformers are sample-efficient world models __`ICLR 2023`__;__`RL`__ [Paper](https://arxiv.org/pdf/2209.00588.pdf), [Code](https://github.com/eloialonso/iris)
 * 2023-Gradient-based Planning with World Models __`arxiv`__; __`from Yann Lecun's Group`__; __`Planning`__; [Paper](https://arxiv.org/pdf/2312.17227)
 * 2023-World Models via Policy-Guided Trajectory Diffusion __`arxiv`__; __`RL`__; [Paper](https://arxiv.org/pdf/2312.08533.pdf)

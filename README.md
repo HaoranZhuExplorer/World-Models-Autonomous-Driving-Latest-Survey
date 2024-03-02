@@ -47,6 +47,8 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2024-LWM: World Model on Million-Length Video And Language With RingAttention __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/abs/2402.08268), [Code](https://github.com/LargeWorldModel/LWM)
 * 2024-WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/abs/2401.09985)
 * 2024-Video prediction models as rewards for reinforcement learning __`NeurIPS 2024`__ [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/d9042abf40782fbce28901c1c9c0e8d8-Paper-Conference.pdf), [Code](https://github.com/Alescontrela/viper_rl)
+* 2024-V-JEPA: Revisiting Feature Prediction for Learning Visual Representations from Video __`from Yann Lecun's Group`__ [Paper](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/), [Code](https://github.com/facebookresearch/jepa)
+* 2023-I-JEPA: Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture __`CVPR 2023`__; __`from Yann Lecun's Group`__ [Paper](https://arxiv.org/abs/2301.08243), [Code](https://github.com/facebookresearch/ijepa)
 * 2023-Temporally Consistent Transformers for Video Generation __`ICML 2023`__ [Paper](https://arxiv.org/abs/2210.02396), [Code](https://github.com/wilson1yan/teco)
 * 2023-Learning to Model the World with Language __`arxiv`__ [Paper](https://arxiv.org/abs/2308.01399), [Code](https://github.com/jlin816/dynalang)
 * 2023-Transformers are sample-efficient world models __`ICLR 2023`__;__`RL`__ [Paper](https://arxiv.org/pdf/2209.00588.pdf), [Code](https://github.com/eloialonso/iris)

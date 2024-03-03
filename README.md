@@ -42,6 +42,7 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2024-Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)
 
 ## Other General World Model Papers
+* 2024-Video as the New Language for Real-World Decision Making __`arxiv`__, __`Deepmind`__ [Paper](https://arxiv.org/abs/2402.17139)
 * 2024-Genie: Generative Interactive Environments __`Deepmind`__ [Paper](https://arxiv.org/abs/2402.15391v1), [Website](https://sites.google.com/view/genie-2024/home)
 * 2024-Sora __`OpenAI`__, __`Generative AI`__ [Link](https://openai.com/sora), [Technical Report](https://openai.com/research/video-generation-models-as-world-simulators)
 * 2024-LWM: World Model on Million-Length Video And Language With RingAttention __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/abs/2402.08268), [Code](https://github.com/LargeWorldModel/LWM)

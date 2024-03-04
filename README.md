@@ -72,7 +72,7 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 ## References
 * Readme template from [awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception)
 * Other related repos:
-[Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model)
-[Awesome-World-Models-for-AD ](https://github.com/zhanghm1995/awesome-world-models-for-AD?tab=readme-ov-file#Table-of-Content)
+[Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model),
+[Awesome-World-Models-for-AD ](https://github.com/zhanghm1995/awesome-world-models-for-AD?tab=readme-ov-file#Table-of-Content),
 [World models paper list from Shanghai AI lab](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving/blob/main/papers.md#world-model--model-based-rl)
     

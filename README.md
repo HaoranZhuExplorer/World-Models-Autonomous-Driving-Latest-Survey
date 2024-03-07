@@ -37,6 +37,7 @@ A curated list of world model for autonmous driving. Keep updated.
 * 2022-Neural World Models for Autonomous Driving [Video](https://www.youtube.com/watch?v=wMvYjiv6EpY)
 
 ## Surveys that Contain World Models for AD
+* 2024-World Models for Autonomous Driving: An Initial Survey __`arxiv`__ [Paper](https://arxiv.org/abs/2403.02622)
 * 2024-Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big
 Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.12888.pdf)
 * 2024-Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)

@@ -44,6 +44,7 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2024-Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)
 
 ## Other General World Model Papers
+* 2024-MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators __`arxiv`__ [Paper](https://arxiv.org/pdf/2404.05014.pdf), [Code](https://github.com/PKU-YuanGroup/MagicTime)
 * 2024-3D-VLA: A 3D Vision-Language-Action Generative World Model __`arxiv`__ [Paper](https://arxiv.org/pdf/2403.09631.pdf)
 * 2024-IWM: Learning and Leveraging World Models in Visual Representation Learning  __`arxiv`__, __`from Yann Lecun's Group`__ [Paper](https://arxiv.org/pdf/2403.00504.pdf)
 * 2024-Video as the New Language for Real-World Decision Making __`arxiv`__, __`Deepmind`__ [Paper](https://arxiv.org/abs/2402.17139)

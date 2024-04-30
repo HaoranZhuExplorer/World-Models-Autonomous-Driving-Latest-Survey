@@ -2,6 +2,7 @@
 A curated list of world model for autonmous driving. Keep updated.
 
 ## Papers
+* 2024-UniPAD: A Universal Pre-training Paradigm for Autonomous Driving __`CVPR 2024`__;  __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/abs/2310.08370), [Code](https://github.com/Nightmare-n/UniPAD)
 * 2024-GenAD: Generalized Predictive Model for Autonomous Driving __`CVPR 2024`__;  __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/pdf/2403.09630.pdf) 
 * 2024-Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving  __`arxiv`__ [Paper](https://arxiv.org/pdf/2402.16720.pdf)
 * 2024-ViDAR: Visual Point Cloud Forecasting enables Scalable Autonomous Driving  __`CVPR 2024`__; __`Pre-training`__;  __`from Shanghai AI Lab`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2312.17655), [Code](https://github.com/OpenDriveLab/ViDAR)

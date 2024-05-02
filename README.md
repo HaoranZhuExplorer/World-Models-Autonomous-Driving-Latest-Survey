@@ -77,7 +77,7 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 ## Other Related Papers
 * 2023-Occupancy Prediction-Guided Neural Planner for Autonomous Driving __`ITSC 2023`__; __`Planning, Neural Predicted-Guided Planning`__; __`Waymo Open Motion dataset`__ [Paper](https://arxiv.org/abs/2305.03303)
 
-## Other related repos
+## Other Related Repos
 [Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model),
 [Awesome-World-Models-for-AD ](https://github.com/zhanghm1995/awesome-world-models-for-AD?tab=readme-ov-file#Table-of-Content),
 [World models paper list from Shanghai AI lab](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving/blob/main/papers.md#world-model--model-based-rl),

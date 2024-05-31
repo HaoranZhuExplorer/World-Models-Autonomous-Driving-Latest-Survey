@@ -47,6 +47,7 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2024-Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)
 
 ## Other General World Model Papers
+* 2024-Hierarchical World Models as Visual Whole-Body Humanoid Controllers [Paper](https://arxiv.org/pdf/2405.18418)
 * 2024-Pandora: Towards General World Model with Natural Language Actions and Video States [Paper](https://world-model.maitrix.org/assets/pandora.pdf)
 * 2024-Efficient World Models with Time-Aware and Context-Augmented Tokenization __`ICML 2024`__ 
 * 2024-3D-VLA: A 3D Vision-Language-Action Generative World Model __`ICML 2024`__ [Paper](https://arxiv.org/pdf/2403.09631.pdf)

@@ -2,6 +2,7 @@
 A curated list of world model for autonmous driving. Keep updated.
 
 ## Papers
+* 2024-OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving [Paper](https://arxiv.org/ab/2405.20337), [Code](https://github.com/wzzheng/OccSora)
 * 2024-Delphi: Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation [Paper](https://arxiv.org/abs/2406.01349)
 * 2024-Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/pdf/2405.17398)
 * 2024-DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving  __`CVPR 2024`__;  __[Paper](https://arxiv.org/pdf/2405.04390),

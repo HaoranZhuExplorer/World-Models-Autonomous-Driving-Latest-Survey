@@ -39,6 +39,7 @@ A curated list of world model for autonmous driving. Keep updated.
 * 2019-Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic __`ICLR 2019`__; __`Future Prediction`__; __`from Yann Lecun's Group`__ [Paper](https://github.com/Atcold/pytorch-PPUU?tab=readme-ov-file), [Code](https://github.com/Atcold/pytorch-PPUU)
   
 ## Workshops/Challenges
+* 2024-1X World Model Challenge  __`Challenges`__ [Link](https://github.com/1x-technologies/1xgpt)
 * 2024-CVPR Workshop, Foundation Models for Autonomous Systems, Challenges, Track 4: Predictive World Model __`Challenges`__ [Link](https://opendrivelab.com/challenge2024/)
 
 ## Tutorials/Talks/

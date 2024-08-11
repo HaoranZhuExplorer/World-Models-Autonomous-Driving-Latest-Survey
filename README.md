@@ -2,6 +2,7 @@
 A curated list of world model for autonmous driving. Keep updated.
 
 ## Papers
+* 2024-CarFormer: Self-Driving with Learned Object-Centric Representations  __`ECCV 2024`__ [Paper](https://arxiv.org/pdf/2407.15843)
 * 2024-BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space  __`arxiv`__ [Paper](https://arxiv.org/pdf/2407.05679v1)
 * 2024-Planning with Adaptive World Models for Autonomous Driving  __`arxiv`__; __`Planning`__; [Paper](https://arxiv.org/pdf/2406.10714)
 * 2024-UnO: Unsupervised Occupancy Fields for Perception and Forecasting [Paper](https://arxiv.org/pdf/2406.08691)

@@ -2,6 +2,7 @@
 A curated list of world model for autonmous driving. Keep updated.
 
 ## Papers
+* 2024-OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving [Paper](https://www.arxiv.org/abs/2409.03272)
 * 2024-Drive-OccWorld: Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving [Paper](https://arxiv.org/pdf/2408.14197)
 * 2024-CarFormer: Self-Driving with Learned Object-Centric Representations  __`ECCV 2024`__ [Paper](https://arxiv.org/pdf/2407.15843)
 * 2024-BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space  __`arxiv`__ [Paper](https://arxiv.org/pdf/2407.05679v1)

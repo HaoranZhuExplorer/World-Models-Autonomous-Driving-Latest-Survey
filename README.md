@@ -2,6 +2,7 @@
 A curated list of world model for autonmous driving. Keep updated.
 
 ## Papers
+* 2024-DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation [Paper](https://arxiv.org/pdf/2410.13571)
 * 2024-DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model [Paper](https://arxiv.org/abs/2410.10738)  __`Dataset`__
 * 2024-Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models [Paper](https://arxiv.org/abs/2409.16663)  __`Planning`__
 * 2024-OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving [Paper](https://www.arxiv.org/abs/2409.03272)

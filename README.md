@@ -60,6 +60,7 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2024-Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)
 
 ## Other General World Model Papers
+* 2024-PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation  __`NeurIPS 2024`__ [Paper](https://arxiv.org/abs/2410.10394) 
 * 2024-RoboDreamer: Learning Compositional World Models for Robot Imagination [Paper](https://arxiv.org/abs/2404.12377)
 * 2024-TD-MPC2: Scalable, Robust World Models for Continuous Control __`ICLR 2024`__ [Paper](https://openreview.net/pdf?id=Oxh5CstDJU)
 * 2024-Hierarchical World Models as Visual Whole-Body Humanoid Controllers [Paper](https://arxiv.org/pdf/2405.18418)

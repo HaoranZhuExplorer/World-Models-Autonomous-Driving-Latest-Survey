@@ -2,6 +2,7 @@
 A curated list of world model for autonmous driving. Keep updated.
 
 ## Papers
+* 2024-DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT. [Paper](https://arxiv.org/abs/2412.19505)  [Project Page](https://huxiaotaostasy.github.io/DrivingWorld/index.html) [Code](https://github.com/YvanYin/DrivingWorld)
 * 2024-DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model. [Paper](https://arxiv.org/abs/2410.10429)  [Project Page](https://gusongen.github.io/DOME)
 * 2024-DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation [Paper](https://arxiv.org/pdf/2410.13571)
 * 2024-DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model [Paper](https://arxiv.org/abs/2410.10738)  __`Dataset`__

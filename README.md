@@ -8,6 +8,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 
 ## Papers
 * 2025-AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data. __`arxiv`__; __`Pre-training`__; __`Self-supervised representation learning`__; [Paper](https://arxiv.org/abs/2501.04969), [Code to be released](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)
+* 2025-Cosmos World Foundation Model Platform for Physical AI [Paper](https://arxiv.org/abs/2501.03575), [Code](https://github.com/NVIDIA/Cosmos)
 * 2024-DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT. [Paper](https://arxiv.org/abs/2412.19505)  [Project Page](https://huxiaotaostasy.github.io/DrivingWorld/index.html) [Code](https://github.com/YvanYin/DrivingWorld)
 * 2024-DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model. [Paper](https://arxiv.org/abs/2410.10429)  [Project Page](https://gusongen.github.io/DOME)
 * 2024-DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation [Paper](https://arxiv.org/pdf/2410.13571)

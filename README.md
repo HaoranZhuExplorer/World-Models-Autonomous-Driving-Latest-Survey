@@ -70,6 +70,7 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2024-Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)
 
 ## Other General World Model Papers
+* 2025-Intuitive physics understanding emerges from self-supervised pretraining on natural videos [Paper](https://arxiv.org/abs/2502.11831v1), [Code](https://github.com/facebookresearch/jepa-intuitive-physics)
 * 2025-Do generative video models learn physical principles from watching videos? [Paper](https://arxiv.org/abs/2501.09038), [Code](https://github.com/google-deepmind/physics-IQ-benchmark), [Website](https://physics-iq.github.io/)
 * 2024-Genie2: [Website](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 * 2024-WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making [Paper](https://arxiv.org/abs/2411.05619)

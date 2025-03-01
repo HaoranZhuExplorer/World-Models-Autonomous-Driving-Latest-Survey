@@ -40,7 +40,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 
 #### NeurIPS 2024
 *  DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model __`NeurIPS 2024`__; __`Dataset`__; [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/178f4666a84ecdd61e3b85145ed56484-Paper-Datasets_and_Benchmarks_Track.pdf), [Website](https://drivingdojo.github.io/), [Code](https://github.com/Robertwyq/Drivingdojo)
-*  Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability __`NeurIPS 2024`__; __`from Shanghai AI Lab`__ [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/a6a066fb44f2fe0d36cf740c873b8890-Paper-Conference.pdf), [Website](https://opendrivelab.com/Vista/), [Code](https://github.com/OpenDriveLab/Vista)
+*  Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability __`NeurIPS 2024`__; __`from Shanghai AI Lab`__;  __`Generative AI`__; [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/a6a066fb44f2fe0d36cf740c873b8890-Paper-Conference.pdf), [Website](https://opendrivelab.com/Vista/), [Code](https://github.com/OpenDriveLab/Vista)
 
 #### ECCV 2024
 

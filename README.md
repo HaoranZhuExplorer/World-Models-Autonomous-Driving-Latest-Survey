@@ -26,6 +26,9 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * SSR: Navigation-Guided Sparse Scene Representation for End-to-End Autonomous Driving  __`ICLR 2025`__;  __`End-to-End AD`__; [Paper](https://openreview.net/pdf?id=Vv76fCYffN), [Code to be released](https://github.com/PeidongLi/SSR)
 * OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework __`ICLR 2025`__; __`Occupancy Forecasting `__; [Paper](https://openreview.net/pdf?id=vC7AlY1ytz), [Code to be released](https://github.com/JLChen-C/OccProphet)
 
+#### TIV 2025
+* PIWM: Dream to Drive with Predictive Individual World Model __`TIV 2025`__; __`RL`__; [Paper](https://arxiv.org/abs/2501.16733), [Code](https://github.com/gaoyinfeng/PIWM)
+
 #### Others
 * MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction  __`arxiv`__; __`Generative AI`__; [Paper](https://arxiv.org/abs/2502.11663) [Code](https://github.com/SenseTime-FVG/OpenDWM)
 * HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation  __`arxiv`__;  __`Generative AI`__;  __`LLM`__; [Paper](https://arxiv.org/pdf/2501.14729), [Code to be released](https://github.com/LMD0311/HERMES)

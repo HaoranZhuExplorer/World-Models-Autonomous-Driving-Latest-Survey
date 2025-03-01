@@ -2,7 +2,15 @@
 A curated list of world model for autonmous driving. Keep updated.
 
 ## Announcement
-Besides the wonderful papers we list below, we are very happy to announce that our group, NYU Learning Systems Laboratory, recently released a preprint titled: [AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data](https://arxiv.org/abs/2501.04969), the first joint-embedding predictive architecture (JEPA) based spatial world models for self-supervised representation learning of autonomous driving scenarios with LiDAR data. We'll release the source code, pretrained models (both self-supervised and supervised, except for models with the Waymo dataset due to Waymo's licensing constraints), and training logs at [AD-L-JEPA-Release](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release) by the end of January 2025. Please stay tuned for more updates! 
+Besides the wonderful papers we list below, we are very happy to announce that our group, NYU Learning Systems Laboratory, recently released a preprint titled: [AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data](https://arxiv.org/abs/2501.04969), the first joint-embedding predictive architecture (JEPA) based spatial world models for self-supervised representation learning of autonomous driving. Source code is available at [AD-L-JEPA-Release](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release). If this paper inspires you, you may consider cite it via:
+```bibtex
+@article{zhu2025ad,
+  title={AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data},
+  author={Zhu, Haoran and Dong, Zhenyuan and Topollai, Kristi and Choromanska, Anna},
+  journal={arXiv preprint arXiv:2501.04969},
+  year={2025}
+}
+```
 
 
 

@@ -28,6 +28,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 
 #### Others
 * MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction  __`arxiv`__; __`Generative AI`__; [Paper](https://arxiv.org/abs/2502.11663) [Code](https://github.com/SenseTime-FVG/OpenDWM)
+* HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation  __`arxiv`__;  __`Generative AI`__;  __`LLM`__; [Paper](https://arxiv.org/pdf/2501.14729), [Code to be released](https://github.com/LMD0311/HERMES)
 * AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data. __`arxiv`__; __`Pre-training`__; __`Self-supervised representation learning`__; [Paper](https://arxiv.org/abs/2501.04969), [Code](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)
 
 * 2025-Cosmos World Foundation Model Platform for Physical AI [Paper](https://arxiv.org/abs/2501.03575), [Code](https://github.com/NVIDIA/Cosmos)

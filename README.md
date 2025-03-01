@@ -7,6 +7,10 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 
 
 ## Papers
+### 2025
+* LAW: Enhancing End-to-End Autonomous Driving with Latent World Model  __`ICLR 2025`__; __`End-to-End AD`__; [Paper](https://openreview.net/pdf?id=fd2u60ryG0), [Code](https://github.com/BraveGroup/LAW)
+
+
 * 2025-GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control __`CVPR 2025`__ [Paper](https://arxiv.org/pdf/2412.11198) [Code](https://github.com/vita-epfl/GEM)
 * 2025-MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction [Paper](https://arxiv.org/abs/2502.11663) [Code](https://github.com/SenseTime-FVG/OpenDWM)
 * 2025-AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data. __`arxiv`__; __`Pre-training`__; __`Self-supervised representation learning`__; [Paper](https://arxiv.org/abs/2501.04969), [Code](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)
@@ -22,7 +26,6 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * 2024-BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space  __`arxiv`__ [Paper](https://arxiv.org/pdf/2407.05679v1)
 * 2024-Planning with Adaptive World Models for Autonomous Driving  __`arxiv`__; __`Planning`__; [Paper](https://arxiv.org/pdf/2406.10714)
 * 2024-UnO: Unsupervised Occupancy Fields for Perception and Forecasting [Paper](https://arxiv.org/pdf/2406.08691)
-* 2024-LAW: Enhancing End-to-End Autonomous Driving with Latent World Model [Paper](https://arxiv.org/pdf/2406.08481)
 * 2024-OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving [Paper](https://arxiv.org/ab/2405.20337), [Code](https://github.com/wzzheng/OccSora)
 * 2024-Delphi: Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation [Paper](https://arxiv.org/abs/2406.01349)
 * 2024-Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/pdf/2405.17398)

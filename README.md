@@ -40,6 +40,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 
 #### NeurIPS 2024
 *  DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model __`NeurIPS 2024`__; __`Dataset`__; [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/178f4666a84ecdd61e3b85145ed56484-Paper-Datasets_and_Benchmarks_Track.pdf), [Website](https://drivingdojo.github.io/), [Code](https://github.com/Robertwyq/Drivingdojo)
+*  Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability __`NeurIPS 2024`__; __`from Shanghai AI Lab`__ [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/a6a066fb44f2fe0d36cf740c873b8890-Paper-Conference.pdf), [Website](https://opendrivelab.com/Vista/), [Code](https://github.com/OpenDriveLab/Vista)
 
 #### ECCV 2024
 
@@ -63,7 +64,6 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * 2024-UnO: Unsupervised Occupancy Fields for Perception and Forecasting [Paper](https://arxiv.org/pdf/2406.08691)
 * 2024-OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving [Paper](https://arxiv.org/ab/2405.20337), [Code](https://github.com/wzzheng/OccSora)
 * 2024-Delphi: Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation [Paper](https://arxiv.org/abs/2406.01349)
-* 2024-Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/pdf/2405.17398)
 * 2024-DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving  __`CVPR 2024`__;  __[Paper](https://arxiv.org/pdf/2405.04390),
 * 2024-UniPAD: A Universal Pre-training Paradigm for Autonomous Driving __`CVPR 2024`__;  __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/abs/2310.08370), [Code](https://github.com/Nightmare-n/UniPAD)
 * 2024-GenAD: Generalized Predictive Model for Autonomous Driving __`CVPR 2024`__;  __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/pdf/2403.09630.pdf) 

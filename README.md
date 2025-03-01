@@ -39,6 +39,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 ### 2024
 
 #### NeurIPS 2024
+*  DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model __`NeurIPS 2024`__; __`Dataset`__; [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/178f4666a84ecdd61e3b85145ed56484-Paper-Datasets_and_Benchmarks_Track.pdf), [Website](https://drivingdojo.github.io/), [Code](https://github.com/Robertwyq/Drivingdojo)
 
 #### ECCV 2024
 
@@ -53,7 +54,6 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * 2024-DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT. [Paper](https://arxiv.org/abs/2412.19505)  [Project Page](https://huxiaotaostasy.github.io/DrivingWorld/index.html) [Code](https://github.com/YvanYin/DrivingWorld)
 * 2024-DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model. [Paper](https://arxiv.org/abs/2410.10429)  [Project Page](https://gusongen.github.io/DOME)
 * 2024-DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation [Paper](https://arxiv.org/pdf/2410.13571)
-* 2024-DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model [Paper](https://arxiv.org/abs/2410.10738)  __`Dataset`__
 * 2024-Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models [Paper](https://arxiv.org/abs/2409.16663)  __`Planning`__
 * 2024-OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving [Paper](https://www.arxiv.org/abs/2409.03272)
 * 2024-Drive-OccWorld: Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving [Paper](https://arxiv.org/pdf/2408.14197)

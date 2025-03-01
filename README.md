@@ -17,6 +17,8 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 ## Papers
 ### 2025
 * LAW: Enhancing End-to-End Autonomous Driving with Latent World Model  __`ICLR 2025`__; __`End-to-End AD`__; [Paper](https://openreview.net/pdf?id=fd2u60ryG0), [Code](https://github.com/BraveGroup/LAW)
+* PreWorld: Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving __`ICLR 2025`__; __`3D Occupancy Prediction`__; __` 4D Occupancy Forecasting `__; __`Motion Planning `__; [Paper](https://openreview.net/pdf?id=rCX9l4OTCT), [Code](https://github.com/getterupper/PreWorld)
+
 
 
 * 2025-GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control __`CVPR 2025`__ [Paper](https://arxiv.org/pdf/2412.11198) [Code](https://github.com/vita-epfl/GEM)

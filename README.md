@@ -63,7 +63,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion __`ICLR 2024`__; __`Future Point Cloud Prediction`__; __`from Waabi`__; [Paper](https://arxiv.org/abs/2311.01017)
 
 #### ICRA 2024
-* Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models [Paper](https://arxiv.org/abs/2409.16663)  __`ICRA 2024`__; __`Planning`__
+* Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models  __`ICRA 2024`__; __`Planning`__ [Paper](https://arxiv.org/abs/2409.16663) 
 
 #### Others
 * DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation __`arxiv 2024`__; __`Generative AI`__; __`4D Simulation`__; [Paper](https://arxiv.org/pdf/2410.13571), [Website](https://drivedreamer4d.github.io/), [Code](https://github.com/GigaAI-research/DriveDreamer4D)

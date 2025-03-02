@@ -54,6 +54,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving __`ECCV 2024`__; __`Future Instance Prediction`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11758.pdf), [Code](https://github.com/TabGuigui/FipTR)
 
 #### CVPR 2024
+* Drive-WM: Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving __`CVPR 2024`__; __`Generative AI`__; __`Planning`__; [Paper](https://arxiv.org/pdf/2311.17918.pdf), [Website](https://drive-wm.github.io/), [Code](https://github.com/BraveGroup/Drive-WM)
 
 #### ICLR 2024
 
@@ -81,7 +82,6 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * 2024-Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion __`ICLR 2024`__; __`Future Prediction`__; __`from Waabi`__; __`NuScenes, KITTI Odemetry, Argoverse2 Lidar datasets`__  [Paper](https://arxiv.org/abs/2311.01017)
 * 2023-DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/pdf/2310.07771.pdf), [Code](https://github.com/shalfun/DrivingDiffusion)
 * 2023-MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations __`arxiv`__; __`Pre-training`__; __`CARLA dataset`__ [Paper](https://arxiv.org/pdf/2311.11762.pdf)
-* 2023-Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving __`arxiv`__; __`Generative AI, Planning`__; __`NuScenes and Waymo datasets`__ [Paper](https://arxiv.org/pdf/2311.17918.pdf)
 * 2023-ADriver-I: A General World Model for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`NuScenes & one private dataset`__ [Paper](https://arxiv.org/pdf/2311.13549.pdf) 
 * 2023-GAIA-1: A Generative World Model for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`Wayve's private data`__ [Paper](https://arxiv.org/pdf/2309.17080.pdf)
 * 2023-Neural World Models for Computer Vision __'PhD Thesis'__; __`from Wayve`__  [Paper](https://arxiv.org/pdf/2306.09179)

@@ -29,10 +29,8 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 #### AAAI 2025
 * DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation __`AAAI 2025`__; __`Generative AI`__; __`LLM`__; [Paper](https://arxiv.org/pdf/2403.06845), [Website](https://drivedreamer2.github.io/), [Code](https://github.com/f1yfisher/DriveDreamer2)
 
-#### TIV 2025
-* PIWM: Dream to Drive with Predictive Individual World Model __`TIV 2025`__; __`RL`__; [Paper](https://arxiv.org/abs/2501.16733), [Code](https://github.com/gaoyinfeng/PIWM)
-
 #### Others
+* PIWM: Dream to Drive with Predictive Individual World Model __`TIV 2025`__; __`RL`__; [Paper](https://arxiv.org/abs/2501.16733), [Code](https://github.com/gaoyinfeng/PIWM)
 * MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction  __`arxiv`__; __`Generative AI`__; [Paper](https://arxiv.org/abs/2502.11663) [Code](https://github.com/SenseTime-FVG/OpenDWM)
 * Dream to Drive: Model-Based Vehicle Control Using Analytic World Models  __`arxiv`__;  __`Planning`__; [Paper](https://arxiv.org/abs/2502.10012)
 * HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation  __`arxiv`__;  __`Generative AI`__;  __`LLM`__; [Paper](https://arxiv.org/pdf/2501.14729), [Code to be released](https://github.com/LMD0311/HERMES)
@@ -62,12 +60,11 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * UnO: Unsupervised Occupancy Fields for Perception and Forecasting __`CVPR 2024`__; __`Occupancy Forecasting`__; __`Pre-training`__; [Paper](https://arxiv.org/pdf/2406.08691) 
 
 #### ICLR 2024
+* Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion __`ICLR 2024`__; __`Future Point Cloud Prediction`__; __`from Waabi`__; [Paper](https://arxiv.org/abs/2311.01017)
 
 #### Others
 * DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation __`arxiv 2024`__; __`Generative AI`__; __`4D Simulation`__; [Paper](https://arxiv.org/pdf/2410.13571), [Website](https://drivedreamer4d.github.io/), [Code](https://github.com/GigaAI-research/DriveDreamer4D)
 * ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration __`arxiv 2024`__; __`Generative AI`__; __`4D Simulation`__; [Paper](https://arxiv.org/abs/2411.19548), [Website](https://recondreamer.github.io/), [Code](https://github.com/GigaAI-research/ReconDreamer)
-
-
 * 2024-DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT. [Paper](https://arxiv.org/abs/2412.19505)  [Project Page](https://huxiaotaostasy.github.io/DrivingWorld/index.html) [Code](https://github.com/YvanYin/DrivingWorld)
 * 2024-DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model. [Paper](https://arxiv.org/abs/2410.10429)  [Project Page](https://gusongen.github.io/DOME)
 
@@ -80,7 +77,6 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * 2024-OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving [Paper](https://arxiv.org/ab/2405.20337), [Code](https://github.com/wzzheng/OccSora)
 * 2024-Delphi: Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation [Paper](https://arxiv.org/abs/2406.01349)
 * 2024-UniPAD: A Universal Pre-training Paradigm for Autonomous Driving __`CVPR 2024`__;  __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/abs/2310.08370), [Code](https://github.com/Nightmare-n/UniPAD)
-* 2024-Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion __`ICLR 2024`__; __`Future Prediction`__; __`from Waabi`__; __`NuScenes, KITTI Odemetry, Argoverse2 Lidar datasets`__  [Paper](https://arxiv.org/abs/2311.01017)
 * 2023-DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/pdf/2310.07771.pdf), [Code](https://github.com/shalfun/DrivingDiffusion)
 * 2023-MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations __`arxiv`__; __`Pre-training`__; __`CARLA dataset`__ [Paper](https://arxiv.org/pdf/2311.11762.pdf)
 * 2023-ADriver-I: A General World Model for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`NuScenes & one private dataset`__ [Paper](https://arxiv.org/pdf/2311.13549.pdf) 

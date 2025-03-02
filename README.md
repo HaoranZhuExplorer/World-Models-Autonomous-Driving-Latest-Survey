@@ -51,6 +51,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving __`ECCV 2024`__; __`Occupancy Forecasting`__; __`Motion Planning`__; [Paper](https://arxiv.org/pdf/2311.16038.pdf), [Code](https://github.com/wzzheng/OccWorld)
 * Think2Drive: Efficient Reinforcement Learning by Thinking with Latent World Model for Autonomous Driving (in CARLA-v2)  __`ECCV 2024`__;  __`RL`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06129.pdf), [Website](https://thinklab-sjtu.github.io/CornerCaseRepo/)
 * FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving __`ECCV 2024`__; __`Future Instance Prediction`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11758.pdf), [Code](https://github.com/TabGuigui/FipTR)
+* DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model __`ECCV 2024`__; __`Generative AI`__ [Paper](https://arxiv.org/pdf/2310.07771.pdf), [Code](https://github.com/shalfun/DrivingDiffusion)
 
 #### CVPR 2024
 * Drive-WM: Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving __`CVPR 2024`__; __`Generative AI`__; __`Planning`__; [Paper](https://arxiv.org/pdf/2311.17918.pdf), [Website](https://drive-wm.github.io/), [Code](https://github.com/BraveGroup/Drive-WM)
@@ -76,15 +77,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * 2024-Planning with Adaptive World Models for Autonomous Driving  __`arxiv`__; __`Planning`__; [Paper](https://arxiv.org/pdf/2406.10714)
 * 2024-OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving [Paper](https://arxiv.org/ab/2405.20337), [Code](https://github.com/wzzheng/OccSora)
 
-### 2023
-#### NeurIPS 2023
-#### ECCV 2023
-#### CVPR 2023
-#### ICLR 2023
-#### Others
-
-* 2023-DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/pdf/2310.07771.pdf), [Code](https://github.com/shalfun/DrivingDiffusion)
-
+### Before 2023
 * 2023-ADriver-I: A General World Model for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`NuScenes & one private dataset`__ [Paper](https://arxiv.org/pdf/2311.13549.pdf) 
 * 2023-GAIA-1: A Generative World Model for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`Wayve's private data`__ [Paper](https://arxiv.org/pdf/2309.17080.pdf)
 * 2023-Neural World Models for Computer Vision __'PhD Thesis'__; __`from Wayve`__  [Paper](https://arxiv.org/pdf/2306.09179)

@@ -43,6 +43,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 *  Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability __`NeurIPS 2024`__; __`from Shanghai AI Lab`__;  __`Generative AI`__; [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/a6a066fb44f2fe0d36cf740c873b8890-Paper-Conference.pdf), [Website](https://opendrivelab.com/Vista/), [Code](https://github.com/OpenDriveLab/Vista)
 
 #### ECCV 2024
+* DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving __`ECCV 2024`__; __`Generative AI`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06416.pdf), [Website](https://drivedreamer.github.io/), [Code](https://github.com/JeffWang987/DriveDreamer)
 
 #### ICML 2024 
 
@@ -76,14 +77,6 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * 2023-ADriver-I: A General World Model for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`NuScenes & one private dataset`__ [Paper](https://arxiv.org/pdf/2311.13549.pdf) 
 * 2023-OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving __`arxiv`__; __`Occupancy Future Prediction, Planning`__; __`Occ3D dataset for Occupancy Future Prediction, NuScenes for motion planning`__ [Paper](https://arxiv.org/pdf/2311.16038.pdf), [Code](https://github.com/wzzheng/OccWorld)
 * 2023-GAIA-1: A Generative World Model for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`Wayve's private data`__ [Paper](https://arxiv.org/pdf/2309.17080.pdf)
-  <details span>
-  Related papers & tutorials to understand this paper:
-    
-  FDM for video diffusion decoder: [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b2fe1ee8d936ac08dd26f2ff58986c8f-Paper-Conference.pdf), [Code](https://github.com/plai-group/flexible-video-diffusion-modeling)
-  
-  Denoising diffusion tutorials: [CVPR 2022 tutorial](https://www.youtube.com/watch?v=cS6JQpEY9cs), [class from UC Berkeley](https://www.youtube.com/watch?v=687zEGODmHA), [Video](https://www.youtube.com/watch?v=pea3sH6orMc)
-  </details>
-* 2023-DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2309.09777.pdf), [Code (To be released soon)](https://github.com/JeffWang987/DriveDreamer)
 * 2023-Neural World Models for Computer Vision __'PhD Thesis'__; __`from Wayve`__  [Paper](https://arxiv.org/pdf/2306.09179)
 * 2023-UniWorld: Autonomous Driving Pre-training via World Models __`arxiv`__; __`Pre-training`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2308.07234.pdf)
 * 2022-Separating the World and Ego Models for Self-Driving __` ICLR 2022 workshop on Generalizable Policy Learning in the Physical World`__; __`from Yann Lecun's Group`__ [Paper](https://arxiv.org/abs/2204.07184), [Code](https://github.com/vladisai/pytorch-ppuu)

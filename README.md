@@ -49,7 +49,8 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving __`ECCV 2024`__; __`Generative AI`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06416.pdf), [Website](https://drivedreamer.github.io/), [Code](https://github.com/JeffWang987/DriveDreamer)
 * Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model __`ECCV 2024`__; __`RL`__; __`Trajectories Simulation`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05085.pdf), [Code to be released](https://github.com/qiaoguanren/MARL-CCE)
 * NeMo: Neural Volumetric World Models for Autonomous Driving __`ECCV 2024`__; __`End-to-End AD`__; __`Motion Planning `__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02571.pdf)
-* OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving __`ECCV 2024`__; __`Occupancy Forecasting`__, __`Motion Planning`__; [Paper](https://arxiv.org/pdf/2311.16038.pdf), [Code](https://github.com/wzzheng/OccWorld)
+* OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving __`ECCV 2024`__; __`Occupancy Forecasting`__; __`Motion Planning`__; [Paper](https://arxiv.org/pdf/2311.16038.pdf), [Code](https://github.com/wzzheng/OccWorld)
+* Think2Drive: Efficient Reinforcement Learning by Thinking with Latent World Model for Autonomous Driving (in CARLA-v2)  __`ECCV 2024`__;  __`RL`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06129.pdf), [Website](https://thinklab-sjtu.github.io/CornerCaseRepo/)
 
 #### ICML 2024 
 

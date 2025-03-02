@@ -53,8 +53,6 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * Think2Drive: Efficient Reinforcement Learning by Thinking with Latent World Model for Autonomous Driving (in CARLA-v2)  __`ECCV 2024`__;  __`RL`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06129.pdf), [Website](https://thinklab-sjtu.github.io/CornerCaseRepo/)
 * FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving __`ECCV 2024`__; __`Future Instance Prediction`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11758.pdf), [Code](https://github.com/TabGuigui/FipTR)
 
-#### ICML 2024 
-
 #### CVPR 2024
 
 #### ICLR 2024

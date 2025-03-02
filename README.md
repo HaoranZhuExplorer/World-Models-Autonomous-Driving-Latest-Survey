@@ -51,6 +51,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * NeMo: Neural Volumetric World Models for Autonomous Driving __`ECCV 2024`__; __`End-to-End AD`__; __`Motion Planning `__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02571.pdf)
 * OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving __`ECCV 2024`__; __`Occupancy Forecasting`__; __`Motion Planning`__; [Paper](https://arxiv.org/pdf/2311.16038.pdf), [Code](https://github.com/wzzheng/OccWorld)
 * Think2Drive: Efficient Reinforcement Learning by Thinking with Latent World Model for Autonomous Driving (in CARLA-v2)  __`ECCV 2024`__;  __`RL`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06129.pdf), [Website](https://thinklab-sjtu.github.io/CornerCaseRepo/)
+* 
 
 #### ICML 2024 
 
@@ -78,7 +79,6 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * 2024-DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving  __`CVPR 2024`__;  __[Paper](https://arxiv.org/pdf/2405.04390),
 * 2024-UniPAD: A Universal Pre-training Paradigm for Autonomous Driving __`CVPR 2024`__;  __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/abs/2310.08370), [Code](https://github.com/Nightmare-n/UniPAD)
 * 2024-GenAD: Generalized Predictive Model for Autonomous Driving __`CVPR 2024`__;  __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/pdf/2403.09630.pdf) 
-* 2024-Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving  __`arxiv`__ [Paper](https://arxiv.org/pdf/2402.16720.pdf)
 * 2024-ViDAR: Visual Point Cloud Forecasting enables Scalable Autonomous Driving  __`CVPR 2024`__; __`Pre-training`__;  __`from Shanghai AI Lab`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2312.17655), [Code](https://github.com/OpenDriveLab/ViDAR)
 * 2024-Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion __`ICLR 2024`__; __`Future Prediction`__; __`from Waabi`__; __`NuScenes, KITTI Odemetry, Argoverse2 Lidar datasets`__  [Paper](https://arxiv.org/abs/2311.01017)
 * 2023-DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/pdf/2310.07771.pdf), [Code](https://github.com/shalfun/DrivingDiffusion)
@@ -114,7 +114,8 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 ## Other General World Model Papers
 * 2025-Intuitive physics understanding emerges from self-supervised pretraining on natural videos [Paper](https://arxiv.org/abs/2502.11831v1), [Code](https://github.com/facebookresearch/jepa-intuitive-physics)
 * 2025-Do generative video models learn physical principles from watching videos? [Paper](https://arxiv.org/abs/2501.09038), [Code](https://github.com/google-deepmind/physics-IQ-benchmark), [Website](https://physics-iq.github.io/)
-* 2024-PreLAR: World Model Pre-training with Learnable Action Representation __`ECCV 2024`__; __`Pretraining`__; __`RL`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03363.pdf), [Code](https://github.com/zhanglixuan0720/PreLAR)  
+* 2024-PreLAR: World Model Pre-training with Learnable Action Representation __`ECCV 2024`__; __`Pretraining`__; __`RL`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03363.pdf), [Code](https://github.com/zhanglixuan0720/PreLAR)
+* 2024-Understanding Physical Dynamics with Counterfactual World Modeling __`ECCV 2024`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03523.pdf), [Website](https://neuroailab.github.io/cwm-physics/), [Code](https://github.com/neuroailab/cwm_dynamics)
 * 2024-Genie2: [Website](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 * 2024-WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making [Paper](https://arxiv.org/abs/2411.05619)
 * 2024-How Far is Video Generation from World Model: A Physical Law Perspective [Paper](https://arxiv.org/abs/2411.02385)

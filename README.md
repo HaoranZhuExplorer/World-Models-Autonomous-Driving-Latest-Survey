@@ -49,6 +49,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving __`ECCV 2024`__; __`Generative AI`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06416.pdf), [Website](https://drivedreamer.github.io/), [Code](https://github.com/JeffWang987/DriveDreamer)
 * Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model __`ECCV 2024`__; __`RL`__; __`Trajectories Simulation`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05085.pdf), [Code to be released](https://github.com/qiaoguanren/MARL-CCE)
 * NeMo: Neural Volumetric World Models for Autonomous Driving __`ECCV 2024`__; __`End-to-End AD`__; __`Motion Planning `__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02571.pdf)
+* OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving __`ECCV 2024`__; __`Occupancy Forecasting`__, __`Motion Planning`__; [Paper](https://arxiv.org/pdf/2311.16038.pdf), [Code](https://github.com/wzzheng/OccWorld)
 
 #### ICML 2024 
 
@@ -83,7 +84,6 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * 2023-MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations __`arxiv`__; __`Pre-training`__; __`CARLA dataset`__ [Paper](https://arxiv.org/pdf/2311.11762.pdf)
 * 2023-Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving __`arxiv`__; __`Generative AI, Planning`__; __`NuScenes and Waymo datasets`__ [Paper](https://arxiv.org/pdf/2311.17918.pdf)
 * 2023-ADriver-I: A General World Model for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`NuScenes & one private dataset`__ [Paper](https://arxiv.org/pdf/2311.13549.pdf) 
-* 2023-OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving __`arxiv`__; __`Occupancy Future Prediction, Planning`__; __`Occ3D dataset for Occupancy Future Prediction, NuScenes for motion planning`__ [Paper](https://arxiv.org/pdf/2311.16038.pdf), [Code](https://github.com/wzzheng/OccWorld)
 * 2023-GAIA-1: A Generative World Model for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`Wayve's private data`__ [Paper](https://arxiv.org/pdf/2309.17080.pdf)
 * 2023-Neural World Models for Computer Vision __'PhD Thesis'__; __`from Wayve`__  [Paper](https://arxiv.org/pdf/2306.09179)
 * 2023-UniWorld: Autonomous Driving Pre-training via World Models __`arxiv`__; __`Pre-training`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2308.07234.pdf)

@@ -57,6 +57,8 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * Drive-WM: Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving __`CVPR 2024`__; __`Generative AI`__; __`Planning`__; [Paper](https://arxiv.org/pdf/2311.17918.pdf), [Website](https://drive-wm.github.io/), [Code](https://github.com/BraveGroup/Drive-WM)
 * DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving  __`CVPR 2024`__;  __`Pre-training`__; [Paper](https://arxiv.org/pdf/2405.04390)
 * Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications  __`CVPR 2024`__;  __`Occupancy Forecasting `__; [Paper](https://arxiv.org/abs/2311.17663), [Code](https://github.com/haomo-ai/Cam4DOcc)
+* GenAD: Generalized Predictive Model for Autonomous Driving __`CVPR 2024`__;  __`from Shanghai AI Lab`__ __`Generative AI`__; [Paper](https://arxiv.org/pdf/2403.09630.pdf), [Code](https://github.com/OpenDriveLab/DriveAGI) 
+* ViDAR: Visual Point Cloud Forecasting enables Scalable Autonomous Driving  __`CVPR 2024`__; __`Pre-training`__;  __`from Shanghai AI Lab`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2312.17655), [Code](https://github.com/OpenDriveLab/ViDAR)
 
 #### ICLR 2024
 
@@ -78,8 +80,6 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * 2024-OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving [Paper](https://arxiv.org/ab/2405.20337), [Code](https://github.com/wzzheng/OccSora)
 * 2024-Delphi: Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation [Paper](https://arxiv.org/abs/2406.01349)
 * 2024-UniPAD: A Universal Pre-training Paradigm for Autonomous Driving __`CVPR 2024`__;  __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/abs/2310.08370), [Code](https://github.com/Nightmare-n/UniPAD)
-* 2024-GenAD: Generalized Predictive Model for Autonomous Driving __`CVPR 2024`__;  __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/pdf/2403.09630.pdf) 
-* 2024-ViDAR: Visual Point Cloud Forecasting enables Scalable Autonomous Driving  __`CVPR 2024`__; __`Pre-training`__;  __`from Shanghai AI Lab`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2312.17655), [Code](https://github.com/OpenDriveLab/ViDAR)
 * 2024-Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion __`ICLR 2024`__; __`Future Prediction`__; __`from Waabi`__; __`NuScenes, KITTI Odemetry, Argoverse2 Lidar datasets`__  [Paper](https://arxiv.org/abs/2311.01017)
 * 2023-DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/pdf/2310.07771.pdf), [Code](https://github.com/shalfun/DrivingDiffusion)
 * 2023-MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations __`arxiv`__; __`Pre-training`__; __`CARLA dataset`__ [Paper](https://arxiv.org/pdf/2311.11762.pdf)

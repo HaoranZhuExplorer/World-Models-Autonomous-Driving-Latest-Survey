@@ -48,6 +48,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 #### ECCV 2024
 * DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving __`ECCV 2024`__; __`Generative AI`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06416.pdf), [Website](https://drivedreamer.github.io/), [Code](https://github.com/JeffWang987/DriveDreamer)
 * Modelling Competitive Behaviors in Autonomous Driving Under Generative World Model __`ECCV 2024`__; __`RL`__; __`Trajectories Simulation`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05085.pdf), [Code to be released](https://github.com/qiaoguanren/MARL-CCE)
+* NeMo: Neural Volumetric World Models for Autonomous Driving __`ECCV 2024`__; __`End-to-End AD`__; __`Motion Planning `__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02571.pdf)
 
 #### ICML 2024 
 

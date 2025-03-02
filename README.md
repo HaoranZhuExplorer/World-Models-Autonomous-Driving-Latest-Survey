@@ -59,6 +59,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications  __`CVPR 2024`__;  __`Occupancy Forecasting `__; [Paper](https://arxiv.org/abs/2311.17663), [Code](https://github.com/haomo-ai/Cam4DOcc)
 * GenAD: Generalized Predictive Model for Autonomous Driving __`CVPR 2024`__;  __`from Shanghai AI Lab`__ __`Generative AI`__; [Paper](https://arxiv.org/pdf/2403.09630.pdf), [Code](https://github.com/OpenDriveLab/DriveAGI) 
 * ViDAR: Visual Point Cloud Forecasting enables Scalable Autonomous Driving  __`CVPR 2024`__; __`Pre-training`__;  __`from Shanghai AI Lab`__; __`NuScenes dataset`__ [Paper](https://arxiv.org/pdf/2312.17655), [Code](https://github.com/OpenDriveLab/ViDAR)
+* UnO: Unsupervised Occupancy Fields for Perception and Forecasting __`CVPR 2024`__; __`Occupancy Forecasting`__; __`Pre-training`__; [Paper](https://arxiv.org/pdf/2406.08691) 
 
 #### ICLR 2024
 
@@ -76,7 +77,6 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * 2024-CarFormer: Self-Driving with Learned Object-Centric Representations  __`ECCV 2024`__ [Paper](https://arxiv.org/pdf/2407.15843)
 * 2024-BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space  __`arxiv`__ [Paper](https://arxiv.org/pdf/2407.05679v1)
 * 2024-Planning with Adaptive World Models for Autonomous Driving  __`arxiv`__; __`Planning`__; [Paper](https://arxiv.org/pdf/2406.10714)
-* 2024-UnO: Unsupervised Occupancy Fields for Perception and Forecasting [Paper](https://arxiv.org/pdf/2406.08691)
 * 2024-OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving [Paper](https://arxiv.org/ab/2405.20337), [Code](https://github.com/wzzheng/OccSora)
 * 2024-Delphi: Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation [Paper](https://arxiv.org/abs/2406.01349)
 * 2024-UniPAD: A Universal Pre-training Paradigm for Autonomous Driving __`CVPR 2024`__;  __`from Shanghai AI Lab`__ [Paper](https://arxiv.org/abs/2310.08370), [Code](https://github.com/Nightmare-n/UniPAD)

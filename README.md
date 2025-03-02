@@ -28,6 +28,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 
 #### AAAI 2025
 * DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation __`AAAI 2025`__; __`Generative AI`__; __`LLM`__; [Paper](https://arxiv.org/pdf/2403.06845), [Website](https://drivedreamer2.github.io/), [Code](https://github.com/f1yfisher/DriveDreamer2)
+* Drive-OccWorld: Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving __`AAAI 2025`__; __`Occupancy Forecasting `__; __`Planning `__; [Paper](https://arxiv.org/pdf/2408.14197), [Website](https://drive-occworld.github.io/), [Code](https://github.com/yuyang-cloud/Drive-OccWorld)
 
 #### Others
 * PIWM: Dream to Drive with Predictive Individual World Model __`TIV 2025`__; __`RL`__; [Paper](https://arxiv.org/abs/2501.16733), [Code](https://github.com/gaoyinfeng/PIWM)
@@ -70,9 +71,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration __`arxiv 2024`__; __`Generative AI`__; __`4D Simulation`__; [Paper](https://arxiv.org/abs/2411.19548), [Website](https://recondreamer.github.io/), [Code](https://github.com/GigaAI-research/ReconDreamer)
 * 2024-DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT. [Paper](https://arxiv.org/abs/2412.19505)  [Project Page](https://huxiaotaostasy.github.io/DrivingWorld/index.html) [Code](https://github.com/YvanYin/DrivingWorld)
 * 2024-DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model. [Paper](https://arxiv.org/abs/2410.10429)  [Project Page](https://gusongen.github.io/DOME)
-* 
 * 2024-OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving [Paper](https://www.arxiv.org/abs/2409.03272)
-* 2024-Drive-OccWorld: Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving [Paper](https://arxiv.org/pdf/2408.14197)
 * 2024-CarFormer: Self-Driving with Learned Object-Centric Representations  __`ECCV 2024`__ [Paper](https://arxiv.org/pdf/2407.15843)
 * 2024-BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space  __`arxiv`__ [Paper](https://arxiv.org/pdf/2407.05679v1)
 * 2024-Planning with Adaptive World Models for Autonomous Driving  __`arxiv`__; __`Planning`__; [Paper](https://arxiv.org/pdf/2406.10714)

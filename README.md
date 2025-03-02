@@ -56,6 +56,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 #### CVPR 2024
 * Drive-WM: Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving __`CVPR 2024`__; __`Generative AI`__; __`Planning`__; [Paper](https://arxiv.org/pdf/2311.17918.pdf), [Website](https://drive-wm.github.io/), [Code](https://github.com/BraveGroup/Drive-WM)
 * DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving  __`CVPR 2024`__;  __`Pre-training`__; [Paper](https://arxiv.org/pdf/2405.04390)
+* Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications  __`CVPR 2024`__;  __`Occupancy Forecasting `__; [Paper](https://arxiv.org/abs/2311.17663), [Code](https://github.com/haomo-ai/Cam4DOcc)
 
 #### ICLR 2024
 

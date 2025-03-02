@@ -77,8 +77,14 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * 2024-OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving [Paper](https://arxiv.org/ab/2405.20337), [Code](https://github.com/wzzheng/OccSora)
 
 ### 2023
+#### NeurIPS 2023
+#### ECCV 2023
+#### CVPR 2023
+#### ICLR 2023
+#### Others
+
 * 2023-DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model __`arxiv`__; __`Generative AI`__ [Paper](https://arxiv.org/pdf/2310.07771.pdf), [Code](https://github.com/shalfun/DrivingDiffusion)
-* 2023-MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations __`arxiv`__; __`Pre-training`__; __`CARLA dataset`__ [Paper](https://arxiv.org/pdf/2311.11762.pdf)
+
 * 2023-ADriver-I: A General World Model for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`NuScenes & one private dataset`__ [Paper](https://arxiv.org/pdf/2311.13549.pdf) 
 * 2023-GAIA-1: A Generative World Model for Autonomous Driving __`arxiv`__; __`Generative AI`__; __`Wayve's private data`__ [Paper](https://arxiv.org/pdf/2309.17080.pdf)
 * 2023-Neural World Models for Computer Vision __'PhD Thesis'__; __`from Wayve`__  [Paper](https://arxiv.org/pdf/2306.09179)

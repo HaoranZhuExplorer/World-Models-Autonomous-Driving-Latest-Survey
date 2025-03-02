@@ -122,7 +122,6 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2024-RoboDreamer: Learning Compositional World Models for Robot Imagination [Paper](https://arxiv.org/abs/2404.12377)
 * 2024-TD-MPC2: Scalable, Robust World Models for Continuous Control __`ICLR 2024`__ [Paper](https://openreview.net/pdf?id=Oxh5CstDJU)
 * 2024-Hierarchical World Models as Visual Whole-Body Humanoid Controllers [Paper](https://arxiv.org/pdf/2405.18418)
-* 2024-Pandora: Towards General World Model with Natural Language Actions and Video States [Paper](https://world-model.maitrix.org/assets/pandora.pdf)
 * 2024-Efficient World Models with Time-Aware and Context-Augmented Tokenization __`ICML 2024`__ 
 * 2024-3D-VLA: A 3D Vision-Language-Action Generative World Model __`ICML 2024`__ [Paper](https://arxiv.org/pdf/2403.09631.pdf)
 * 2024-Newton from Archetype AI __`website`__ [Link](https://www.archetypeai.io/blog/introducing-archetype-ai---understand-the-real-world-in-real-time)

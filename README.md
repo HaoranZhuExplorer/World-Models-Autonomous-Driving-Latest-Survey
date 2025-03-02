@@ -26,6 +26,9 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * SSR: Navigation-Guided Sparse Scene Representation for End-to-End Autonomous Driving  __`ICLR 2025`__;  __`End-to-End AD`__; [Paper](https://openreview.net/pdf?id=Vv76fCYffN), [Code to be released](https://github.com/PeidongLi/SSR)
 * OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework __`ICLR 2025`__; __`Occupancy Forecasting `__; [Paper](https://openreview.net/pdf?id=vC7AlY1ytz), [Code to be released](https://github.com/JLChen-C/OccProphet)
 
+#### AAAI 2025
+* DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation __`AAAI 2025`__; __`Generative AI`__; __`LLM`__; [Paper](https://arxiv.org/pdf/2403.06845), [Website](https://drivedreamer2.github.io/), [Code](https://github.com/f1yfisher/DriveDreamer2)
+
 #### TIV 2025
 * PIWM: Dream to Drive with Predictive Individual World Model __`TIV 2025`__; __`RL`__; [Paper](https://arxiv.org/abs/2501.16733), [Code](https://github.com/gaoyinfeng/PIWM)
 

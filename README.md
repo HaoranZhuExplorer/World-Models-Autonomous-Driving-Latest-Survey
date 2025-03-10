@@ -36,7 +36,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * Dream to Drive: Model-Based Vehicle Control Using Analytic World Models  __`arxiv`__;  __`Planning`__; [Paper](https://arxiv.org/abs/2502.10012)
 * HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation  __`arxiv`__;  __`Generative AI`__;  __`LLM`__; [Paper](https://arxiv.org/pdf/2501.14729), [Code to be released](https://github.com/LMD0311/HERMES)
 * AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data. __`arxiv`__; __`Pre-training`__; __`Self-supervised representation learning`__; [Paper](https://arxiv.org/abs/2501.04969), [Code](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release)
-* 2025-Cosmos World Foundation Model Platform for Physical AI  __`arxiv`__; __`Foundation Model`__; [Paper](https://arxiv.org/abs/2501.03575), [Code](https://github.com/NVIDIA/Cosmos)
+* Cosmos World Foundation Model Platform for Physical AI  __`arxiv`__; __`Foundation Model`__; [Paper](https://arxiv.org/abs/2501.03575), [Code](https://github.com/NVIDIA/Cosmos)
 
 ### 2024
 
@@ -68,6 +68,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models  __`ICRA 2024`__; __`Planning`__ [Paper](https://arxiv.org/abs/2409.16663) 
 
 #### Others
+* InfinityDrive: Breaking Time Limits in Driving World Models __`arxiv 2024`__; __`Generative AI`__; [Paper](https://arxiv.org/abs/2412.01522v1), [Website](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)
 * DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation __`arxiv 2024`__; __`Generative AI`__; __`4D Simulation`__; [Paper](https://arxiv.org/pdf/2410.13571), [Website](https://drivedreamer4d.github.io/), [Code](https://github.com/GigaAI-research/DriveDreamer4D)
 * ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration __`arxiv 2024`__; __`Generative AI`__; __`4D Simulation`__; [Paper](https://arxiv.org/abs/2411.19548), [Website](https://recondreamer.github.io/), [Code](https://github.com/GigaAI-research/ReconDreamer)
 * 2024-DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT. [Paper](https://arxiv.org/abs/2412.19505)  [Project Page](https://huxiaotaostasy.github.io/DrivingWorld/index.html) [Code](https://github.com/YvanYin/DrivingWorld)

@@ -31,6 +31,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * Drive-OccWorld: Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving __`AAAI 2025`__; __`Occupancy Forecasting `__; __`Planning `__; [Paper](https://arxiv.org/pdf/2408.14197), [Website](https://drive-occworld.github.io/), [Code](https://github.com/yuyang-cloud/Drive-OccWorld)
 
 #### Others
+* $T^3$Former: Temporal Triplane Transformers as Occupancy World Models __`arxiv March`__; __`Occupancy Forecasting`__; [Paper](https://arxiv.org/pdf/2503.07338)
 * PIWM: Dream to Drive with Predictive Individual World Model __`TIV 2025`__; __`RL`__; [Paper](https://arxiv.org/abs/2501.16733), [Code](https://github.com/gaoyinfeng/PIWM)
 * MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction  __`arxiv`__; __`Generative AI`__; [Paper](https://arxiv.org/abs/2502.11663) [Code](https://github.com/SenseTime-FVG/OpenDWM)
 * Dream to Drive: Model-Based Vehicle Control Using Analytic World Models  __`arxiv`__;  __`Planning`__; [Paper](https://arxiv.org/abs/2502.10012)

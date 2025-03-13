@@ -32,6 +32,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 
 #### Others
 * $T^3$Former: Temporal Triplane Transformers as Occupancy World Models __`arxiv March`__; __`Occupancy Forecasting`__; [Paper](https://arxiv.org/pdf/2503.07338)
+* InDRiVE: Intrinsic Disagreement-based Reinforcement for Vehicle Exploration through Curiosity-Driven Generalized World Model  __`arxiv March`__;  __`RL`__; [Paper](https://arxiv.org/abs/2503.05573)
 * PIWM: Dream to Drive with Predictive Individual World Model __`TIV 2025`__; __`RL`__; [Paper](https://arxiv.org/abs/2501.16733), [Code](https://github.com/gaoyinfeng/PIWM)
 * MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction  __`arxiv`__; __`Generative AI`__; [Paper](https://arxiv.org/abs/2502.11663) [Code](https://github.com/SenseTime-FVG/OpenDWM)
 * Dream to Drive: Model-Based Vehicle Control Using Analytic World Models  __`arxiv`__;  __`Planning`__; [Paper](https://arxiv.org/abs/2502.10012)

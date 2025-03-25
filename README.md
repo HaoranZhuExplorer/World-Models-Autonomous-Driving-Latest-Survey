@@ -109,6 +109,7 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2024-Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)
 
 ## Other General World Model Papers
+* 2025-PhysTwin: Physics-Informed Reconstruction and Simulation of Deformable Objects from Videos [Paper](https://jianghanxiao.github.io/phystwin-web/phystwin.pdf), [Code](https://github.com/Jianghanxiao/PhysTwin)
 * 2025-Intuitive physics understanding emerges from self-supervised pretraining on natural videos [Paper](https://arxiv.org/abs/2502.11831v1), [Code](https://github.com/facebookresearch/jepa-intuitive-physics)
 * 2025-Do generative video models learn physical principles from watching videos? [Paper](https://arxiv.org/abs/2501.09038), [Code](https://github.com/google-deepmind/physics-IQ-benchmark), [Website](https://physics-iq.github.io/)
 * 2024-PreLAR: World Model Pre-training with Learnable Action Representation __`ECCV 2024`__; __`Pretraining`__; __`RL`__; [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03363.pdf), [Code](https://github.com/zhanglixuan0720/PreLAR)

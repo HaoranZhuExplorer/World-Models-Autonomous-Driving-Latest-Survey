@@ -31,6 +31,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * Drive-OccWorld: Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving __`AAAI 2025`__; __`Occupancy Forecasting `__; __`Planning `__; [Paper](https://arxiv.org/pdf/2408.14197), [Website](https://drive-occworld.github.io/), [Code](https://github.com/yuyang-cloud/Drive-OccWorld)
 
 #### Others
+* GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving __`Generative AI`__; [Paper](https://drive.google.com/file/d/1L_FwiQS0KvrzERaYeG08AA1GO5HpIMfq/view)
 * Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latent Space __`arxiv March`__; __`Generative AI`__; [Paper](https://arxiv.org/abs/2503.09215)
 * $T^3$Former: Temporal Triplane Transformers as Occupancy World Models __`arxiv March`__; __`Occupancy Forecasting`__; [Paper](https://arxiv.org/pdf/2503.07338)
 * InDRiVE: Intrinsic Disagreement-based Reinforcement for Vehicle Exploration through Curiosity-Driven Generalized World Model  __`arxiv March`__;  __`RL`__; [Paper](https://arxiv.org/abs/2503.05573)

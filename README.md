@@ -23,7 +23,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * LAW: Enhancing End-to-End Autonomous Driving with Latent World Model  __`ICLR 2025`__; __`End-to-End AD`__; [Paper](https://openreview.net/pdf?id=fd2u60ryG0), [Code](https://github.com/BraveGroup/LAW)
 * PreWorld: Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving __`ICLR 2025`__; __`Occupancy Forecasting `__; __`Motion Planning `__; [Paper](https://openreview.net/pdf?id=rCX9l4OTCT), [Code](https://github.com/getterupper/PreWorld)
 * AdaWM: Adaptive World Model based Planning for Autonomous Driving __`ICLR 2025`__; __`RL`__; __`Planning`__; [Paper](https://openreview.net/pdf?id=NEu8wgPctU)
-* SSR: Navigation-Guided Sparse Scene Representation for End-to-End Autonomous Driving  __`ICLR 2025`__;  __`End-to-End AD`__; [Paper](https://openreview.net/pdf?id=Vv76fCYffN), [Code to be released](https://github.com/PeidongLi/SSR)
+* SSR: Navigation-Guided Sparse Scene Representation for End-to-End Autonomous Driving  __`ICLR 2025`__;  __`End-to-End AD`__; [Paper](https://openreview.net/pdf?id=Vv76fCYffN), [Code](https://github.com/PeidongLi/SSR)
 * OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework __`ICLR 2025`__; __`Occupancy Forecasting `__; [Paper](https://openreview.net/pdf?id=vC7AlY1ytz), [Code to be released](https://github.com/JLChen-C/OccProphet)
 
 #### AAAI 2025

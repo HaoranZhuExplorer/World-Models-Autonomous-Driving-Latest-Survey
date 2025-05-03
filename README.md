@@ -16,6 +16,9 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 
 ## Papers
 ### 2025
+#### ICML 2025
+* DriveGPT: Scaling Autoregressive Behavior Models for Driving __`ICML 2025`__;  [Paper](https://arxiv.org/abs/2412.14415)
+
 #### CVPR 2025
 * GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control __`CVPR 2025`__; __`Generative AI`__; [Paper](https://arxiv.org/pdf/2412.11198), [Code to be released](https://github.com/vita-epfl/GEM)
 

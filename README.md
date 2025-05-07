@@ -34,6 +34,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * Drive-OccWorld: Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving __`AAAI 2025`__; __`Occupancy Forecasting `__; __`Planning `__; [Paper](https://arxiv.org/pdf/2408.14197), [Website](https://drive-occworld.github.io/), [Code](https://github.com/yuyang-cloud/Drive-OccWorld)
 
 #### Others
+* DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment __`arxiv April`__; __`Generative AI`__; [Paper](https://arxiv.org/pdf/2504.18576), [Code](https://github.com/shalfun/DriVerse)
 * Learning to Drive from a World Mode __`arxiv April`__; [Paper](https://www.arxiv.org/pdf/2504.19077)
 * WoTE: End-to-End Driving with Online Trajectory Evaluation via BEV World Model __`arxiv April`__; [Paper](https://arxiv.org/abs/2504.01941), [Code](https://github.com/liyingyanUCAS/WoTE)
 * AETHER: Geometric-Aware Unified World Modeling __`arxiv March`__; [Paper](https://arxiv.org/pdf/2503.18945), [Website](https://aether-world.github.io/)

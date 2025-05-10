@@ -21,6 +21,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 
 #### CVPR 2025
 * GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control __`CVPR 2025`__; __`Generative AI`__; [Paper](https://arxiv.org/pdf/2412.11198), [Code to be released](https://github.com/vita-epfl/GEM)
+* FUTURIST: Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers. __`CVPR 2025`__ [[Paper](https://arxiv.org/abs/2501.08303)] [[Code](https://github.com/Sta8is/FUTURIST)]
 
 #### ICLR 2025
 * LAW: Enhancing End-to-End Autonomous Driving with Latent World Model  __`ICLR 2025`__; __`End-to-End AD`__; [Paper](https://openreview.net/pdf?id=fd2u60ryG0), [Code](https://github.com/BraveGroup/LAW)

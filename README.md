@@ -118,6 +118,8 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2024-Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)
 
 ## Other General World Model Papers
+* 2025-Learning 3D Persistent Embodied World Models __`arxiv 2025`__ [Paper](https://www.arxiv.org/abs/2505.05495)
+* 2025-AdaWorld: Learning Adaptable World Models with Latent Actions  __`ICML 2025`__ [Paper](https://arxiv.org/pdf/2503.18938)
 * 2025-DreamerV3: Mastering diverse control tasks through world models __`Nature`__ [Paper](https://www.nature.com/articles/s41586-025-08744-2), [Code](https://github.com/danijar/dreamerv3)
 * 2025-PhysTwin: Physics-Informed Reconstruction and Simulation of Deformable Objects from Videos [Paper](https://jianghanxiao.github.io/phystwin-web/phystwin.pdf), [Code](https://github.com/Jianghanxiao/PhysTwin)
 * 2025-Intuitive physics understanding emerges from self-supervised pretraining on natural videos [Paper](https://arxiv.org/abs/2502.11831v1), [Code](https://github.com/facebookresearch/jepa-intuitive-physics)

@@ -118,7 +118,7 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2024-Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)
 
 ## Other General World Model Papers
-* 2025-UniVLA __`arxiv 2025`__  [Paper](Learning to Act Anywhere with Task-centric Latent Actions)
+* 2025-UniVLA: Learning to Act Anywhere with Task-centric Latent Actions __`arxiv 2025`__  [Paper](https://arxiv.org/abs/2505.06111), [Code](https://github.com/OpenDriveLab/UniVLA)
 * 2025-Learning 3D Persistent Embodied World Models __`arxiv 2025`__ [Paper](https://www.arxiv.org/abs/2505.05495)
 * 2025-AdaWorld: Learning Adaptable World Models with Latent Actions  __`ICML 2025`__ [Paper](https://arxiv.org/pdf/2503.18938)
 * 2025-DreamerV3: Mastering diverse control tasks through world models __`Nature`__ [Paper](https://www.nature.com/articles/s41586-025-08744-2), [Code](https://github.com/danijar/dreamerv3)

@@ -35,6 +35,9 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation __`AAAI 2025`__; __`Generative AI`__; __`LLM`__; [Paper](https://arxiv.org/pdf/2403.06845), [Website](https://drivedreamer2.github.io/), [Code](https://github.com/f1yfisher/DriveDreamer2)
 * Drive-OccWorld: Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving __`AAAI 2025`__; __`Occupancy Forecasting `__; __`Planning `__; [Paper](https://arxiv.org/pdf/2408.14197), [Website](https://drive-occworld.github.io/), [Code](https://github.com/yuyang-cloud/Drive-OccWorld)
 
+#### RSS 2025
+* LOPR: Self-supervised Multi-future Occupancy Forecasting for Autonomous Driving [Paper](https://www.roboticsproceedings.org/rss21/p003.pdf)  __`RSS 2025`__;
+
 #### Others
 * DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment __`arxiv April`__; __`Generative AI`__; [Paper](https://arxiv.org/pdf/2504.18576), [Code](https://github.com/shalfun/DriVerse)
 * Learning to Drive from a World Mode __`arxiv April`__; [Paper](https://www.arxiv.org/pdf/2504.19077)

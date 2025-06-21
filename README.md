@@ -39,6 +39,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * LOPR: Self-supervised Multi-future Occupancy Forecasting for Autonomous Driving [Paper](https://www.roboticsproceedings.org/rss21/p003.pdf)  __`RSS 2025`__;
 
 #### Others
+* FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving __`arxiv May`__; [Paper](https://arxiv.org/abs/2505.17685), [Code](https://github.com/MIV-XJTU/FSDrive)
 * DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment __`arxiv April`__; __`Generative AI`__; [Paper](https://arxiv.org/pdf/2504.18576), [Code](https://github.com/shalfun/DriVerse)
 * Learning to Drive from a World Mode __`arxiv April`__; [Paper](https://www.arxiv.org/pdf/2504.19077)
 * WoTE: End-to-End Driving with Online Trajectory Evaluation via BEV World Model __`arxiv April`__; [Paper](https://arxiv.org/abs/2504.01941), [Code](https://github.com/liyingyanUCAS/WoTE)

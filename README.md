@@ -123,6 +123,7 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2024-Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)
 
 ## Other General World Model Papers
+* 2025-Critiques of World Models [Paper](https://www.arxiv.org/abs/2507.05169)
 * 2025-DREAMGEN: Unlocking Generalization in Robot Learning through Video World Models  __`from Nvidia`__  [Paper](https://arxiv.org/abs/2505.12705), [Code](https://github.com/NVIDIA/GR00T-Dreams)
 * 2025-V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning __`from Meta`__  [Paper](https://ai.meta.com/research/publications/v-jepa-2-self-supervised-video-models-enable-understanding-prediction-and-planning/), [Code](https://github.com/facebookresearch/vjepa2)
 * 2025-UniVLA: Learning to Act Anywhere with Task-centric Latent Actions __`arxiv 2025`__  [Paper](https://arxiv.org/abs/2505.06111), [Code](https://github.com/OpenDriveLab/UniVLA)

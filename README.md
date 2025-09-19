@@ -14,7 +14,12 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 
 
 ## Papers
+
+
 ### 2025
+#### NeurIPS 2025
+* FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving __`NeurIPS 2025`__; [Paper](https://arxiv.org/abs/2505.17685), [Code](https://github.com/MIV-XJTU/FSDrive)
+
 #### ICML 2025
 * DriveGPT: Scaling Autoregressive Behavior Models for Driving __`ICML 2025`__;  [Paper](https://arxiv.org/abs/2412.14415) [Demo](https://www.youtube.com/watch?v=-hLi44PfY8g)
 
@@ -41,7 +46,6 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * IntPhys 2: Benchmarking Intuitive Physics Understanding In Complex Synthetic Environments [Paper](https://arxiv.org/pdf/2506.09849), [Code](https://github.com/facebookresearch/IntPhys2)
 * Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation [Paper](https://arxiv.org/abs/2508.05635v1), [Website](https://genie-envisioner.github.io/)
 * Genie 3: A new frontier for world models [Website](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
-* FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving __`arxiv May`__; [Paper](https://arxiv.org/abs/2505.17685), [Code](https://github.com/MIV-XJTU/FSDrive)
 * DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment __`arxiv April`__; __`Generative AI`__; [Paper](https://arxiv.org/pdf/2504.18576), [Code](https://github.com/shalfun/DriVerse)
 * Learning to Drive from a World Mode __`arxiv April`__; [Paper](https://www.arxiv.org/pdf/2504.19077)
 * WoTE: End-to-End Driving with Online Trajectory Evaluation via BEV World Model __`arxiv April`__; [Paper](https://arxiv.org/abs/2504.01941), [Code](https://github.com/liyingyanUCAS/WoTE)

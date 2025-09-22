@@ -18,6 +18,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 
 ### 2025
 #### NeurIPS 2025
+* DINO-Foresight: Looking into the Future with DINO __`NeurIPS 2025`__; [Paper](https://arxiv.org/abs/2412.11673), [Code](https://github.com/Sta8is/DINO-Foresight)
 * FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving __`NeurIPS 2025`__; [Paper](https://arxiv.org/abs/2505.17685), [Code](https://github.com/MIV-XJTU/FSDrive)
 
 #### ICML 2025

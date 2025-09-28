@@ -18,7 +18,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 
 ### 2025
 #### NeurIPS 2025
-* DINO-Foresight: Looking into the Future with DINO __`NeurIPS 2025`__; [Paper](https://arxiv.org/abs/2412.11673), [Code](https://github.com/Sta8is/DINO-Foresight)
+* DINO-Foresight: Looking into the Future with DINO __`NeurIPS 2025`__; __`Vision Foundation Models`__; [Paper](https://arxiv.org/abs/2412.11673), [Code](https://github.com/Sta8is/DINO-Foresight)
 * FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving __`NeurIPS 2025`__; [Paper](https://arxiv.org/abs/2505.17685), [Code](https://github.com/MIV-XJTU/FSDrive)
 * Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2) __`NeurIPS 2025`__;  __`End-to-End AD`__; __`RL`__; [Paper](https://arxiv.org/pdf/2505.16394)
 * Towards foundational LiDAR world models with efficient latent flow matching  __`NeurIPS 2025`__; __`Generative AI`__; __`Transfer Learning`__; [Paper](https://www.arxiv.org/abs/2506.23434), [Website](https://orbis36.github.io/AdaFlowMatchingWM-Web/)

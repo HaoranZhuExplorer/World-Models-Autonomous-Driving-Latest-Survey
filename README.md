@@ -134,6 +134,7 @@ Data System, Data Mining, and Closed-Loop Technologies __`arxiv`__ [Paper](https
 * 2024-Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities __`arxiv`__ [Paper](https://arxiv.org/pdf/2401.08045.pdf)
 
 ## Other General World Model Papers
+* 2025-Dreamer 4: Training Agents Inside of Scalable World Models  __`arxiv`__ [Paper](https://www.arxiv.org/abs/2509.24527)
 * 2025-TAWM: Time-Aware World Model for Adaptive Prediction and Control  __`ICML 2025`__  [Paper](https://arxiv.org/abs/2506.08441), [Code](https://github.com/anh-nn01/Time-Aware-World-Model)
 * 2025-What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models  __`ICML 2025`__ [Paper](https://www.arxiv.org/abs/2507.06952)
 * 2025-Critiques of World Models [Paper](https://www.arxiv.org/abs/2507.05169)

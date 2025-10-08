@@ -28,6 +28,10 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models __`NeurIPS 2025`__; __`Generative AI`__; [Paper](https://arxiv.org/abs/2507.13162), [Website](https://lmb-freiburg.github.io/orbis.github.io/)
 * Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency __`NeurIPS 2025`__; __`Generative AI`__;  __`Multi-Modal`__; [Paper](https://arxiv.org/abs/2506.07497), [website](https://arxiv.org/abs/2506.07497), [Code to be released](https://github.com/xiaomi-research/genesis)
 
+
+#### ICCV 2025
+* World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model  __`ICCV 2025`__; [Paper](https://arxiv.org/abs/2507.00603), [Code](https://github.com/ucaszyp/World4Drive)
+ 
 #### ICML 2025
 * DriveGPT: Scaling Autoregressive Behavior Models for Driving __`ICML 2025`__;  [Paper](https://arxiv.org/abs/2412.14415) [Demo](https://www.youtube.com/watch?v=-hLi44PfY8g)
 

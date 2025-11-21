@@ -55,6 +55,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 * LOPR: Self-supervised Multi-future Occupancy Forecasting for Autonomous Driving [Paper](https://www.roboticsproceedings.org/rss21/p003.pdf)  __`RSS 2025`__;
 
 #### Others
+* Back to the Features: DINO as a Foundation for Video World Models [Paper](https://arxiv.org/pdf/2507.19468)
 * IntPhys 2: Benchmarking Intuitive Physics Understanding In Complex Synthetic Environments [Paper](https://arxiv.org/pdf/2506.09849), [Code](https://github.com/facebookresearch/IntPhys2)
 * Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation [Paper](https://arxiv.org/abs/2508.05635v1), [Website](https://genie-envisioner.github.io/)
 * Genie 3: A new frontier for world models [Website](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)

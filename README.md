@@ -13,7 +13,7 @@ Besides the wonderful papers we list below, we are very happy to announce that o
 ```
 
 ## Leading Researchers
-[Yann Lecun](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ&view_op=list_works&sortby=pubdate), [Danijar Hafner](https://scholar.google.com/citations?hl=en&user=VINmGpYAAAAJ&view_op=list_works&sortby=pubdate), [Chuang Gang](https://scholar.google.com/citations?hl=en&user=PTeSCbIAAAAJ&view_op=list_works&sortby=pubdate)
+[Yann Lecun](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ&view_op=list_works&sortby=pubdate), [Danijar Hafner](https://scholar.google.com/citations?hl=en&user=VINmGpYAAAAJ&view_op=list_works&sortby=pubdate), [Chuang Gang](https://scholar.google.com/citations?hl=en&user=PTeSCbIAAAAJ&view_op=list_works&sortby=pubdate), [Yilun Du](https://scholar.google.com/citations?hl=en&user=GRMMc_MAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 ## Papers
